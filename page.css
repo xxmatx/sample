@@ -1,0 +1,112 @@
+body{
+     background: linear-gradient( 180deg, #000000 0%, #ffffff 100%) ;
+    }
+
+
+
+#portada { 
+    text-align: center;
+    margin-bottom: 0.5%;
+    float: left;
+    width: 60%;
+    margin-left: 20%;
+}
+#portada img{
+    width: 100%;
+}
+
+    
+
+        
+#intro{
+    width: 30%;
+    width: auto;
+    text-align: left;
+    background: white;
+    padding: 1%;
+    border:3px solid red;
+    margin:auto;
+    font-weight: 600;
+    font-size: 15;
+
+}
+
+.sinopsis {
+    text-align: left;
+    background:  white;
+    margin-left: 0%;
+    text-decoration: underline;
+}
+
+#sinopsistexto {
+    background: white;
+    width:auto;
+    margin: auto;
+    font-size: 13;
+    float: left;
+
+}
+
+#a{
+    font-family:comic sans ms,arial;
+    text-decoration: underline;   
+    float: left;
+    width: 60%;
+    margin-right:35%;
+    margin-bottom: 4%;
+    border: 1px solid white;
+    clear: both;
+
+}
+
+
+
+#caps{
+    background: white;
+    float:left;
+    border:2px inset #B2FFF6;
+    margin: auto;
+    clear:both;
+}
+#c{
+    margin-left: 0%;
+    padding: 1px;
+    border:3px solid white
+    float: left;
+    clear: both;
+
+}
+#b{
+    float: left;
+    margin-left: 0%;
+    clear: both;
+    width: auto;
+    text-decoration: underline;
+    border: 3px outset white
+    
+
+}
+
+#personajes {
+    width: 120px;
+    font-family: impact;
+    padding: 0%;
+    border: 2px outset white;
+    margin: 5% 1% 5% 6%;
+    float: left;
+}
+#personajes h2{
+    margin: 0%;
+}
+
+
+#contenido {
+    background: white;
+    width: 60%;
+    margin-left: 20%;
+    float: left;
+    border: 1px outset black;
+    
+
+}
+

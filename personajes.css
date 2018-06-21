@@ -1,0 +1,38 @@
+body{
+     background: linear-gradient( 180deg, #000000 0%, #ffffff 100%) ;
+}
+
+#titulo{
+    width: 160px;
+    font-family: impact;
+    padding: 1%;
+    border: 2px solid white;
+    margin: 4% 1% 0% 0%;
+    float: left;
+    text-decoration: underline;
+}
+
+
+#contenido{
+    background: white;
+    width: 60%;
+    margin:1% 0% 0% 20%;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0.0012%;
+    border: 1px solid black;
+    float: left;
+}
+table{
+    width: 100%;
+    
+}
+th{
+   border: 3px outset #666875;
+   background: #979FFF;
+}
+
+td{
+    border: 3px inset #666875;
+    background:#D4D4D4; 
+}
